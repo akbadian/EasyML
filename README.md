@@ -32,25 +32,25 @@ Each tutorial is organized in its own directory. Follow the steps to run the cod
 
 Here are the currently available tutorials:
 
-1. [Tutorial 1: Introduction to Regression](Regression_Algorithms/)
+1. [Tutorial 1: Introduction to Regression](Regression Algorithms/)
 - Learn the basics of Regression learning, from simple linear regression to SVR.
 
-2. [Tutorial 2: Introduction to Classification](Classification_Algorithms/)
+2. [Tutorial 2: Introduction to Classification](Classification Algorithms/)
 - Implement some of best-known classification algos using Scikit-Learn.
 
-3. [Tutorial 3: Introduction to Clustering](Clustering_Algorithms/)
+3. [Tutorial 3: Introduction to Clustering](Clustering Algorithms/)
 - Build a beginner customer segmentation model.
 
 4. [Tutorial 4: Natural Language Processing with NLTK](NLP/)
 - Get start with natural language processing using the NLTK library and Bag-of-Word method.
 
-5. [Tutorial 5: Reinforcement Learning](Reinforcement_Learning/)
+5. [Tutorial 5: Reinforcement Learning](Reinforcement Learning/)
 - Explore some reinforcement learning concepts and algorithms.
 
-6. [Tutorial 6: Association Rules Learning](Association_Rules_Learning/)
+6. [Tutorial 6: Association Rules Learning](Association_Rules Learning/)
 -Go and meet Eclat and Apriori ARL algos.
 
-7. [Tutorial 5: Basics DL Learning](Basics_DL/)
+7. [Tutorial 7: Basics DL Learning](Basics DL/)
 - Explore some Deep Learning concepts and algorithms.
 
 Feel free to explore, learn, and contribute your own tutorials!
