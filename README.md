@@ -47,7 +47,7 @@ Here are the currently available tutorials:
 5. [Tutorial 5: Reinforcement Learning](Reinforcement Learning/)
 - Explore some reinforcement learning concepts and algorithms.
 
-6. [Tutorial 6: Association Rules Learning](Association_Rules Learning/)
+6. [Tutorial 6: Association Rules Learning](/Association Rule Learning)
 -Go and meet Eclat and Apriori ARL algos.
 
 7. [Tutorial 7: Basics DL Learning](Basics DL/)
